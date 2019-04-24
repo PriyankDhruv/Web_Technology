@@ -1,0 +1,21 @@
+PHP Tutorials :
+
+01.) Write a php program to demonstrate include & require function.
+
+02.) Write a php program to perform url redirect(header command).
+
+03.) Write a php program to display cube of 1 to 10.
+
+04.) Write a php program to process any associative array.
+
+05.) Write a php program to print wheather a current year is a leap year or not.
+
+06.) Write a php program to check entered year is leap year or not.
+
+07.) Write a php program to print wherather a given number is odd or even.
+
+08.) Write a php program to print 1st 10 fibonnaci numbers.
+
+09.) Write a php program using array to store student information such as name, percentage, enrollment number, semester & output the data using webpage.
+
+10.) Write a php program to read & write a text file based on user input.  
