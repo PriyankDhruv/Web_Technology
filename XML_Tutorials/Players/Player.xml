@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<!DOCTYPE players SYSTEM "Player.dtd">
+
+<players xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation = "Player.xsd">
+	<player>
+		<playername>Virat_Kohli</playername>
+		<age>30</age>
+		<batting_avg>300</batting_avg>
+		<highest_score>2400</highest_score>
+	</player>
+	<player>
+		<playername>RavindraSinh_Jadeja</playername>
+		<age>30</age>
+		<batting_avg>280</batting_avg>
+		<highest_score>2000</highest_score>
+	</player>
+</players>	

@@ -1,0 +1,8 @@
+<!DOCTYPE student[
+	<!ELEMENT students(student+)>
+	<!ELEMENT student(studname, enroll, dept, clgname)>
+	<!ELEMENT studname(#PCDATA)>
+	<!ELEMENT enroll(#PCDATA)>
+	<!ELEMENT dept(#PCDATA)>
+	<!ELEMENT clgname(#PCDATA)>
+	]>

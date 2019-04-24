@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>	
+<!DOCTYPE students SYSTEM "Student.dtd">	
+<students xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation = "Student.xsd"> 
+	<student>
+		<studname>Niti_Modi</studname>
+		<enroll>170470107031</enroll>
+		<dept>Computer</dept>
+		<clgname>VVP</clgname>
+	</student>
+</students>	

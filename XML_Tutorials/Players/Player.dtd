@@ -1,0 +1,7 @@
+<!DOCTYPE players[
+	<!ELEMENT players(player)+>
+	<!ELEMENT player(playername, age, batting_avg, highest_score)>
+	<!ELEMENT playername(#PCDATA)>
+	<!ELEMENT batting_avg(#PCDATA)>
+	<!ELEMENT highest_score(#PCDATA)>
+	]>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="book.xsl" ?>
+
+<books>
+  <book>
+    <name>Web Technology</name>
+    <price>300</price>
+    <description>Best Book</description>
+    <author>M T Savaliya</author>
+  </book>
+  <book>
+    <name>ASP.Net Complete Reference</name>
+    <price>599</price>
+    <description>ASP.Net Full Plan</description>
+    <author>David</author>
+  </book>
+</books>

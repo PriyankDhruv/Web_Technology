@@ -1,0 +1,39 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type = "text/xsl" href = "MarkInfo.xsl"?>
+
+<marksheets>
+	<marksheet>
+		<studname>Priyank Dhruv</studname>
+		<enrollno>160470107012</enrollno>
+		<spi>8.88</spi>
+		<cpi>9.20</cpi>
+	</marksheet>
+	<marksheet>
+		<studname>Parth Makadiya</studname>
+		<enrollno>160470107035</enrollno>
+		<spi>9.70</spi>
+		<cpi>9.20</cpi>
+	</marksheet>
+	<marksheet>
+		<studname>Param Ardesna</studname>
+		<enrollno>160470107004</enrollno>
+		<spi>9.40</spi>
+		<cpi>9.36</cpi>
+	</marksheet><marksheet>
+		<studname>Pritesh Sengra</studname>
+		<enrollno>160470107050</enrollno>
+		<spi>7.20</spi>
+		<cpi>7.60</cpi>
+	</marksheet><marksheet>
+		<studname>Hepi Chaniyara</studname>
+		<enrollno>160470107008</enrollno>
+		<spi>8.12</spi>
+		<cpi>7.80</cpi>
+		<marksheet>
+		<studname>Shyam Virani</studname>
+		<enrollno>160470107063</enrollno>
+		<spi>9.50</spi>
+		<cpi>9.30</cpi>
+	</marksheet>
+	</marksheet>
+</marksheets>		

@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>	
+<!DOCTYPE books SYSTEM "Book.dtd">	
+<books xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation = "Book.xsd"> 
+	<book>
+		<bookname>Data-Structure</bookname>
+		<author>Reema Thareja</author>
+		<ISBN>2459765788</ISBN>
+		<quantity>2</quantity>
+	</book>
+</books>	

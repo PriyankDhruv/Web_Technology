@@ -1,0 +1,15 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<!DOCTYPE NEWSPAPER SYSTEM "Newspaper.dtd">
+
+<NEWSPAPER xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation = "Newspaper.xsd">
+	<ARTICLE AUTHOR = "TOI" EDITOR = "TOL">
+		<HEADLINE>ABC</HEADLINE>
+		<BODY>Priyanshi is very intelliegent girl.</BODY>
+		<NOTES>cutiepie</NOTES>
+	</ARTICLE>
+	<ARTICLE AUTHOR = "XOI" EDITOR = "XOL">
+		<HEADLINE>XYZ</HEADLINE>
+		<BODY>Dhruvi is very Brilliant girl.</BODY>
+		<NOTES>honey</NOTES>
+	</ARTICLE>
+</NEWSPAPER>

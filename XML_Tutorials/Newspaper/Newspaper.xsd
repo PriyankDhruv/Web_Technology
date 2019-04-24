@@ -1,0 +1,18 @@
+<?xml version="1.0"?> 
+	<xs:schema xmlns:xs = "http://www.w3.org/2001/XMLSchema"
+	elementFormDefault = "qualified"> 
+	
+		<xs:element name = "NEWSPAPER">
+		<xs:element name = "ARTICLE">
+			<xs:attribute name = "AUTHOR" type = "xs:string"/>
+			<xs:attribute name = "EDITOR" type = "xs:string"/>
+			<xs:complexType>
+				<xs:sequence>
+					<xs:element name = "HEADLINE" type = "xs:string"/>
+					<xs:element name = "BODY" type = "xs:string"/>
+					<xs:element name = "NOTES" type = "xs:string"/>
+				</xs:sequence>
+			</xs:complexType>
+		</xs:element>
+		</xs:element>
+	</xs:schema>	

@@ -1,0 +1,25 @@
+XML Tutorials :
+
+1.) Develop an XML document that will hold a book collection with fields for book name, author, ISBN number and quantity.  
+    Write suitable document type definition and schema for the XML.
+
+2.) Generate XML file from below code:
+
+    <!DOCTYPE NEWSPAPER [
+        <!ELEMENT NEWSPAPER(ARTICLE+)>
+	<!ELEMENT ARTICLE(HEADLINE, BODY, NOTES)>
+	<!ELEMENT HEADLINE(#PCDATA)>
+	<!ELEMENT BODY(#PCDATA)>
+	<!ELEMENT NOTES(#PCDATA)>
+	<!ATTLIST ARTICLE AUTHOR CDATA #REQUIRED>
+	<!ATTLIST ARTICLE EDITOR CDATA #IMPLIED>
+
+3.) Write an XML file to store your semester mark sheet and student personal information. 
+    As your semester marks of all the subjects are store in XML. Write an XSL file using XSLT to display it in XHTML table form.
+
+4.) Develop XML document that will hold player (Like Cricket) collection with field for player name, age, batting average and highest score. 
+    Write suitable DTD and schema for the XML. 
+
+5.) Write an XSL file to print list of products which has price < Rs.300 for item.xml file in tabular structure.
+
+6.) Write Well-formed XML file to store student information. 
