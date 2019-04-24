@@ -1,0 +1,35 @@
+PHP(Advance)_Tutorials :
+
+01.) Write a php program to demonstrate cookies in php((i) GET the cookie (ii) SET the cookie).
+
+02.) Write a php program to upload image file with size less than 2MB.
+
+03.) Write a php program to demonstrate use of inheritance and Constructor.
+
+04.) Write a php program to parse XML file using php.
+
+05.) Write a php program to detect Browser.
+
+06.) Write a php program to demonstrate use of magic methods.
+
+07.) Write a php program to demonstrate use of session.
+
+08.) Write a php program to display below pattern :
+
+	1
+	0 1
+	1 0 1
+	0 1 0 1
+	1 0 1 0 1
+
+09.) Write a php program to display below pattern :
+
+	1
+	a b
+	2 3 4
+	c d e f
+	5 6 7 8 9
+
+10.) Write a php program to validate email address using following method :
+
+	preg_match(<regular-expression>, string) 
