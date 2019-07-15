@@ -1,0 +1,18 @@
+MySQL_Tutorials :
+
+1.) Write a program to create mysql database and table and perform
+    following task:
+	(a) Insert and retrieve data from table
+	(b) Alter table add new column
+	(c) Add information in new column
+
+2.) Write module using php and html to store employee id, job title, experience 
+    in employee table and output the information in ascending order of its experience.
+
+3.) Create a database country and create table city having field: city name, area, population 
+    using php command. 
+    Create HTML form to get city data and write a script to insert and delete data into table.
+
+4.) Read and store student information such as enrollment, name, semester and percentage 
+    in database table student, output the data in tabular format.
+
